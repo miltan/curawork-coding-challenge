@@ -136,5 +136,5 @@ Further requirements:
 ## When you are done 🎖️
 
 - Please check again if all requirements have been done as described. If there are things that need explanation, add them as a text message in your repository (Github  Conversations).
-- Write a mail to jakob@curawork.de containing a link to a repository with your code.
+
 # curawork-coding-challenge
